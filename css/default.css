@@ -1,0 +1,68 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: auto; COLOR: #000; WORD-BREAK: break-all; PADDING-TOP: 0px; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: auto; COLOR: #000; WORD-BREAK: break-all; PADDING-TOP: 0px; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+.white {
+	COLOR: #ba0303
+}
+.green {
+	COLOR: green
+}
+#content {
+	BORDER-RIGHT: #e0a900 1px solid;
+	BORDER-TOP: #e0a900 0px solid;
+	BORDER-LEFT: #e0a900 1px solid;
+	WIDTH: 778px;
+	BORDER-BOTTOM: #e0a900 0px solid;
+	background-image: url(../images/ditt.jpg);
+}
+#banner {
+	BACKGROUND: url(../images/top.jpg) no-repeat; WIDTH: 777px; HEIGHT: 86px
+}
+#menu {
+	BACKGROUND: url(../images/bg_menu.gif) no-repeat; WIDTH: 770px; COLOR: white; LINE-HEIGHT: 30px; HEIGHT: 15px; TEXT-ALIGN: right
+}
+#menu A:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+#menu A:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+#menu A:hover {
+	COLOR: white; TEXT-DECORATION: underline
+}
+#menu A:active {
+	COLOR: red; TEXT-DECORATION: none
+}
+#wall {
+	MARGIN-TOP: 4px; BACKGROUND: url(../images/bg_wall.gif) no-repeat; WIDTH: 750px; HEIGHT: 25px
+}
+#pagenum {
+	FONT-SIZE: 14px; BACKGROUND: #ce0000; MARGIN: 10px 0px; COLOR: white; LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+#pagenum A:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+#pagenum A:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+#pagenum A:hover {
+	COLOR: white; TEXT-DECORATION: underline
+}
+#pagenum A:active {
+	COLOR: red; TEXT-DECORATION: none
+}
+#bar {
+	MARGIN-TOP: 2px; PADDING-LEFT: 15px; BACKGROUND: #e0a900; WIDTH: 700px; COLOR: #006000; LINE-HEIGHT: 25px; POSITION: relative; HEIGHT: 25px; TEXT-ALIGN: left
+}
+.btn {
+	MARGIN-TOP: 5px; FLOAT: right; WIDTH: 72px; MARGIN-RIGHT: 10px; HEIGHT: 17px
+}
+#footer {
+	WIDTH: 100%; PADDING-TOP: 25px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 40px; TEXT-ALIGN: center
+}
+#footer_detail {
+	BORDER-RIGHT: red 0px solid; BORDER-TOP: red 0px solid; BACKGROUND: url(../images/under.jpg) no-repeat; BORDER-LEFT: red 0px solid; WIDTH: 777px; PADDING-TOP: 25px; BORDER-BOTTOM: red 0px solid; HEIGHT: 60px; TEXT-ALIGN: center
+}

@@ -1,0 +1,1 @@
+<SCRIPT language=JavaScript>if(self!=top){top.location=self.location;}</SCRIPT>
